@@ -1,0 +1,4 @@
+usd=100
+euro=150
+dhiram=1000
+
